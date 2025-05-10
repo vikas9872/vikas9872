@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN and Django**
 
-- 👨‍💻 All of my projects are available at [https://vikasshanabhogportfolio.vercel.app/](https://vikasshanabhogportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at ([https://vikasshanabhogportfolio.vercel.app/](https://vikasshanabhog.vercel.app/))
 
 - 💬 Ask me about **React and Java**
 
