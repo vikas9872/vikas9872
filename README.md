@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Java**
 
-- 📫 How to reach me **vikasshanbhog0@gmail.com**
+- 📫 How to reach me **vikas.v.shanbhog@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Yl2HoDzfp6hOpO7nfQp0EOs2-yJ0-LMp/view?usp=sharing](https://drive.google.com/file/d/1Yl2HoDzfp6hOpO7nfQp0EOs2-yJ0-LMp/view?usp=sharing)
 
